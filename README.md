@@ -1,5 +1,5 @@
 ### Ça va bien？:fireworks:
-- :hamster: Have a nice day,bruh!
+- :hamster: Opening to new job opportunities!
 - :shipit:  I’m working on webspider n Android app reverse 
 - :whale: I’m currently using `Python` `Javascript` `Java`<del>`sql`</del> `kali`
 - :beginner: my blog shares some personal coding experience n other things equally fun as coding.
