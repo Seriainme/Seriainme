@@ -1,7 +1,13 @@
-### Ça va bien？:blush:
--  :shipit: A Python back end engineer working on web spider n Android app reverse 
-- :hamster: looking for new job oppotunities.
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Seriainme&show_icons=true&icon_color=#52ffff&text_color=718096&bg_color=ffffff&hide_title=true" />
+### Ça va bien？:fireworks:
+- :hamster: A rather intuitive "Ask forgiveness" type of coder
+- :shipit:  I’m working on webspider n Android app reverse 
+- :whale: I’m currently using `Python` `Javascript` `Java`<del>`sql`</del> `kali`
+- :beginner: my blog shares some personal coding experience n other things equally fun as coding.
+
+![](https://github-readme-stats.vercel.app/api?username=Seriainme&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seriainme&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+
+
 <!--
 **Seriainme/Seriainme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
