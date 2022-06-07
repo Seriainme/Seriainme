@@ -46,7 +46,7 @@
     {
       "company_name": "药渡经纬信息科技公司",
       "department_name": "源数据中心",
-      "work_time": "2019.04 - 2020.06",
+      "work_time": ["2017.06", "2017.12"],
       "work_desc": "主要负责数据采集和数据处理的后端工作",
       "dataIndex": 1
     }
