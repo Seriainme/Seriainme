@@ -3,7 +3,6 @@
 - :shipit:  I’m working on web spider n reverse engineering 
 - :whale: I’m currently using `Python` `Javascript` `Java` `SQL` 
 
-# 20221012
 
 十年前高中那会一直想当英语老师，那时候英语随便考考就是第一，竞赛拿过奖，中高考也都考了140。
 
