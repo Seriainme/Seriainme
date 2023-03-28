@@ -1,3 +1,5 @@
+<img src="https://visitor-badge.glitch.me/badge?page_id=Seriainme" />
+
 ### Ça va bien？:fireworks:
 - :hamster: Peace n Love for the world
 - :shipit:  I’m working on web crawler n reverse engineering 
@@ -15,3 +17,4 @@ lately i have been so intrigued on AI tech n trying to develop my own project.
 <p align="center">
   <img src="https://github.com/Seriainme/Seriainme/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
