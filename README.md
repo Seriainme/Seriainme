@@ -1,5 +1,3 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=Seriainme" />
-
 ### Ça va bien？:fireworks:
 - :hamster: Peace n Love for the world
 - :shipit:  I’m working on web crawler n reverse engineering 
