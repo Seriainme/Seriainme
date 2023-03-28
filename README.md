@@ -9,8 +9,8 @@ open n enthusiastic to new tech.
 
 lately i have been so intrigued on AI tech n trying to develop my own project.
 
-![](https://github-readme-stats.vercel-sigma-five.app/api?username=Seriainme&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
-![](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=Seriainme&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Seriainme&show_icons=true&line_height=21&show_icons=true&theme=aura&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seriainme&show_icons=true&layout=compact&theme=aura&hide_border=true&hide=html,css)
 
 <p align="center">
   <img src="https://github.com/Seriainme/Seriainme/raw/output/github-contribution-grid-snake.svg" alt="snake">
