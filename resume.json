@@ -1,113 +1,138 @@
 {
-    "titleNameMap":{
-        "educationList":"教育背景",
-        "workExpList":"工作经历",
-        "projectList":"项目经历",
-        "skillList":"个人技能",
-        "awardList":"更多信息",
-        "workList":"个人作品",
-        "aboutme":"自我介绍"
-    },
-    "avatar":{
-        "hidden":false,
-        "shape":"circle"
-    },
-    "profile":{
-        "name":"黄新",
-        "email":"1731893469@qq.com",
-        "mobile":"15311886138",
-        "github":"https://github.com/Seriainme",
-        "zhihu":"",
-        "workExpYear":"3年",
-        "workPlace":"",
-        "positionTitle":"爬虫工程师"
-    },
-    "educationList":[
-        {
-            "edu_time":[
-                "2014.09.01",
-                "2018.06.30"
-            ],
-            "school":"安徽财经大学",
-            "major":"金融学",
-            "academic_degree":"本科",
-            "dataIndex":0
-        }
-    ],
-    "awardList":[
-
-    ],
-    "workExpList":[
-        {
-            "work_time":[
-                "2022.01",
-                null
-            ],
-            "company_name":"拓尔思信息技术有限公司",
-            "department_name":"数家产品部",
-            "work_desc":"逆向工程师\n\n负责处理舆情大数据采集开发中的逆向工作，以app端为主也有一些网页站点的采集。同时也负责头部境外媒体的数据采集程序开发",
-            "dataIndex":0
-        },
-        {
-            "company_name":"药渡经纬信息科技公司",
-            "department_name":"源数据中心",
-            "work_time":[
-                "2020.06",
-                "2021.12"
-            ],
-            "work_desc":"后端工程师\n\n负责采集医疗大数据数据的爬虫程序的开发维护，以及数据清洗等后端工作。",
-            "dataIndex":1
-        },
-        {
-            "work_time":["2018.06","2020.06"],
-            "company_name":"其他工作经历",
-            "department_name":"",
-            "work_desc":"2019.12-2020.02 中国平安  保险代理人 销售区域客户的挖掘以及公司产品的销售\n\n2019.8-2019.10 北京21世纪房地产（阳光上东店） 对外租赁  开发在京的外国人租房市场以及维护客户关系\n\n2019.2-2019.6 北京中诚致信网络科技有限公司 金融电销 电话销售贷款等金融服务\n",
-            "dataIndex":2
-        }
-    ],
-    "skillList":[
-        {
-            "skill_name":"web reverse",
-            "skill_desc":"web逆向，安卓逆向",
-            "skill_level":100,
-            "dataIndex":0
-        },
-        {
-            "skill_name":"安卓逆向",
-            "skill_level":60,
-            "skill_desc":"爬虫代码开发",
-            "dataIndex":1
-        },
-        {
-            "skill_name":"python，sql",
-            "skill_level":80,
-            "skill_desc":"Python，sql",
-            "dataIndex":2
-        }
-    ],
-    "projectList":[
-        {
-            "project_name":"数据作战室",
-            "project_role":"前端负责人",
-            "project_time":"2019.04 - 2020.06",
-            "project_desc":"面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-            "project_content":"1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
-        }
-    ],
-    "workList":[
-        {
-            "work_name":"个人博客",
-            "work_desc":"💬用GitHub page搭建，记录了平时的学习成果",
-            "visit_link":"https://seriainme.github.io/",
-            "dataIndex":0
-        }
-    ],
-    "aboutme":{
-        "aboutme_desc":"🎯零基础自学转码，自学能力出色，热衷学习新技术。有责任心，做事认真踏实，抗压能力强。\n📝曾经在外贸行业工作过，英语沟通无障碍可作为工作语言\n\n自驱型爬虫工程师，三年爬虫开发经验，负责公司爬虫框架的开发和维护，对逆向工程有深入了解和实战经验。\n\n\n"
-    },
-    "theme":{
-        "color":"#2f5785",
-        "tagColor":"#8bc34a"
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": {
+    "hidden": false,
+    "shape": "circle"
+  },
+  "profile": {
+    "name": "黄新",
+    "email": "1731893469@qq.com",
+    "mobile": "15311886138",
+    "github": "https://github.com/Seriainme",
+    "zhihu": "",
+    "workExpYear": "3年",
+    "workPlace": "",
+    "positionTitle": "爬虫工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2014.09.01",
+        "2018.06.30"
+      ],
+      "school": "安徽财经大学",
+      "major": "金融学",
+      "academic_degree": "本科",
+      "dataIndex": 0
     }
+  ],
+  "awardList": [],
+  "workExpList": [
+    {
+      "work_time": "2022.01",
+      "company_name": "拓尔思信息技术有限公司",
+      "department_name": "数家产品部",
+      "work_desc": "逆向工程师\n\n负责处理舆情大数据采集开发中的逆向工作，以app端为主也有一些网页站点的采集。\n同时也负责头部境外媒体的数据采集程序开发",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "药渡经纬信息科技公司",
+      "department_name": "源数据中心",
+      "work_time": "2018.06,",
+      "work_desc": "后端工程师\n\n负责采集医疗大数据数据的爬虫程序的开发维护，以及数据清洗等后端工作。",
+      "dataIndex": 1
+    },
+    {
+      "work_time": "2018.06,",
+      "company_name": "其他工作经历",
+      "department_name": "",
+      "work_desc": "2019.12-2020.02 中国平安  保险代理人 销售区域客户的挖掘以及公司产品的销售\n\n2019.8-2019.10 北京21世纪房地产（阳光上东店） 对外租赁  开发在京的外国人租房市场以及维护客户关系\n\n2019.2-2019.6 北京中诚致信网络科技有限公司 金融电销 电话销售贷款等金融服务\n",
+      "dataIndex": 2
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "web reverse",
+      "skill_desc": "web逆向，安卓逆向",
+      "skill_level": 100,
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "安卓逆向",
+      "skill_level": 80,
+      "skill_desc": "爬虫开发",
+      "dataIndex": 1
+    },
+    {
+      "skill_name": "python，sql",
+      "skill_level": 80,
+      "skill_desc": "Python，sql",
+      "dataIndex": 2
+    }
+  ],
+  "projectList": [
+    {
+      "project_time": "2022.01 - 至今",
+      "project_name": "逆向工程以及爬虫框架维护",
+      "project_role": "核心开发者",
+      "project_desc": "在公司采集工具“雷达”的采集基础上，处理有加密无法采集的app客户端和站点。\n破解站点加密逻辑后，根据其域名为爬虫框架编写对应的配置文件，供雷达采集调用。\n\n",
+      "project_content": "熟练掌握app抓包的技巧，知道如何绕过检测代理的问题。\n\n熟悉frida的常规hook操作，以及对app的脱壳处理 ，frida-dexdump,blackdex,apktool 都有使用过。\n\n会使用jadx分析java源码，也会用ida来分析native层源码并用unidbg调用。\n\n熟练使用油猴脚本对web端的加密进行hook。熟悉一般补环境的流程，有处理过瑞数，抖音头条等网站的经验，会使用协议过验证码。",
+      "dataIndex": 0
+    },
+    {
+      "project_time": "2022.10 - 2023.03",
+      "project_name": "新华社深度数据采集",
+      "project_role": "独立开发者",
+      "project_desc": "采集新华社各个国家脸书和INS的贴文和用户数据 ",
+      "project_content": "独立设计了爬虫框架完成定时采集。\n使用代码操作浏览器来采集下载相关的Excel，并用pandas去解析数据，同时使用xpath解析页面的数据。使用了selenium-wire库来获取页面所加载的xhr请求。",
+      "dataIndex": 1
+    },
+    {
+      "project_time": "2022.07 - 2022.08",
+      "project_name": "采集新闻app的推送消息",
+      "project_role": "独立开发者",
+      "project_desc": "评估了主要的工作流程，根据app的推送消息是否能抓包将他们分成两类。对于能抓包走http协议的app，进行抓包和相关的破解加密参数处理。对于不能抓包的，进行了多次hook尝试并总结除了方法来hook到对应类所推送的消息。",
+      "project_content": "对app脱壳分析源码，对于有推送开关设置的app，找到设置页面的对象，分析即可知道推送sdk的种类。继续使用frida去溯源追踪，结合网络找到资料，就可以定位到推送内容相关的代码部分。\n\n对于没有推送开关设置的app，在源码里搜索notificationopen 或者openNotification等关键字，也可以定位到推送代码的位置。\n\n在上述测试中，我还使用了objection来hook类的所有方法。定位结束后，开发了相关的Xposed插件来对app推送就行采集和解析入库。",
+      "dataIndex": 2
+    },
+    {
+      "project_name": "微信公众号文章采集",
+      "project_role": "独立开发者",
+      "project_time": "2020.05 - 2020.07",
+      "project_desc": "根据需求采集指定微信公众号的发文。前期通过购买第三方数据的方式，编写代码从接口取数据，实现每日定时采集并去重更新到数据库。后期自己在GitHub寻找开源项目，进行代码优化和改进，实现了自主采集。",
+      "project_content": "阅读了开源项目的代码和文档（https://github.com/lixi5338619/weixin-spider），知道了其主要的工作原理，在服务器布置了相关环境并对采集到的数据进行解析清洗入库。\n\n代码主要的原理为：对于每个公众号，在微信浏览器使用pyautogui库来模拟点击url，使用mitmproxy去截获相关的请求。拿到其中有时效性的token之后，再根据公众号的biz和其他参数去api请求，获得该公众号的发文。",
+      "dataIndex": 3
+    },
+    {
+      "project_time": "2020.04  ",
+      "project_name": "大数据关键词标定",
+      "project_role": "独立开发者",
+      "project_desc": "将所有的文本和关键词标定，但是由于量级过大笛卡尔积达到几十亿，所以匹配效率低下，使用正则或者sql去做都很慢。",
+      "project_content": "通过自己寻找资料，多次实验最终选定使用ac automation 算法来对数据进行匹配，并对原来的算法进行了多进程的优化。将原来需要两个星期才能完成的标定过程压缩到只需要两天。具体代码逻辑在博客\n \n ",
+      "dataIndex": 4
+    }
+  ],
+  "workList": [
+    {
+      "work_name": "个人博客",
+      "work_desc": "💬  用GitHub page搭建，记录了平时的学习成果",
+      "visit_link": "https://seriainme.github.io/",
+      "dataIndex": 0
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "🎯  零基础自学转码，自学能力出色，热衷学习新技术。有责任心，做事认真踏实，抗压能力强。\n📝  曾经在外贸行业工作过，英语沟通无障碍可作为工作语言\n\n\n自驱型爬虫工程师，三年爬虫开发经验。\n负责公司爬虫框架的开发和维护，对逆向工程有深入了解和实战经验。\n\n\n"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
 }
