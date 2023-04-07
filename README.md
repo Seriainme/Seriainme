@@ -3,7 +3,7 @@
 - :shipit: been working on web crawler n reverse engineering 
 - :whale: I’m currently using `Python` `Javascript` `Java` `SQL` 
 
-爬虫/网页逆向/安卓逆向/sql boy
+爬虫/逆向工程//sql boy
 
 open n enthusiastic to new tech.
 
