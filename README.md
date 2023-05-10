@@ -7,8 +7,6 @@
 
 open n enthusiastic to new tech.
 
-lately i have been so intrigued on AI tech n working on my blog n other project.
-
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seriainme&show_icons=true&line_height=21&show_icons=true&theme=aura&hide_border=true)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Seriainme&show_icons=true&layout=compact&theme=aura&hide_border=true&hide=html,css)
 
