@@ -1,5 +1,5 @@
 ### Hi there :fireworks:
-- :hamster:I’m Morel , a Python engineer living in Beijing China 
+- :hamster:You can call me Morel .I am a Python engineer based in Beijing China 
 - :shipit: been working on web crawler n reverse engineering 
 - :whale: I’m currently using `Python` `Javascript` `Java` `SQL` 
 
