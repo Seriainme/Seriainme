@@ -16,8 +16,7 @@ jobs:
           github_user_name: Seriainme
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
-
-	      env:
-            GITHUB_TOKEN: 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
+        env:
+          GITHUB_TOKEN: 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
 		
 
