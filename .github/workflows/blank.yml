@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate-snake-game-from-github-contribution-grid
-        uses: ./svg-only
+        uses: Platane/snk@v3
         id: generate-snake
         with:
           github_user_name: Seriainme
