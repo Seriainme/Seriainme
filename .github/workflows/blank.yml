@@ -18,5 +18,3 @@ jobs:
           svg_out_path: ./assets/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: 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
-		
-
