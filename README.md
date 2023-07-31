@@ -8,7 +8,9 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seriainme&show_icons=true&line_height=21&show_icons=true&theme=aura&hide_border=true)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Seriainme&show_icons=true&layout=compact&theme=aura&hide_border=true&hide=html,css)
 
-<p align="center">
-  <img src="https://github.com/Seriainme/Seriainme/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+</picture>
 
