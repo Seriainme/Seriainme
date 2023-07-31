@@ -16,8 +16,8 @@ jobs:
           github_user_name: Seriainme
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: master
-          message: "Generate Contribution Snake"
+
+	      env:
+            GITHUB_TOKEN: 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
+		
+
