@@ -9,6 +9,7 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Seriainme&show_icons=true&layout=compact&theme=aura&hide_border=true&hide=html,css)
 
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seriainme/Seriainme/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Seriainme/Seriainme/output/github-contribution-grid-snake.svg">
 </picture>
  
