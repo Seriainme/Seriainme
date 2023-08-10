@@ -1,6 +1,6 @@
 ### Hi there :fireworks:
 - :hamster:I am a Python engineer based in Beijing China 
-- :shipit: I've been working on web crawler n reverse engineering 
+- :shipit: I've been working on web spider n reverse engineering 
 - :whale: I’m currently using `Python` `Javascript` `Java` `SQL` 
 
 爬虫/逆向工程/CRUDER
