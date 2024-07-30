@@ -3,7 +3,7 @@
 - :shipit: I've been working on web spider n reverse engineering 
 - :whale: I’m currently using `Python` `Javascript` `Java` `SQL` 
 
-爬虫/逆向工程/CRUDER
+爬虫/逆向工程/CURDer
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seriainme&show_icons=true&line_height=21&show_icons=true&theme=aura&hide_border=true)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Seriainme&show_icons=true&layout=compact&theme=aura&hide_border=true&hide=html,css)
