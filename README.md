@@ -1,6 +1,6 @@
 ### Hi there :fireworks:
 :shipit: I am a backend engineer mainly focusing on data scraping n reverse engineering.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reenie+Beanie&size=30&pause=1000&color=00FFFF&width=435&lines=I+desire+medium+danger)](https://git.io/typing-svg)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seriainme&show_icons=true&line_height=21&show_icons=true&theme=aura&hide_border=true)
 <!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Seriainme&show_icons=true&layout=compact&theme=aura&hide_border=true&hide=html,css) -->
 
